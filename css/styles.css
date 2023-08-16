@@ -46,11 +46,14 @@ body {
 }
 
 .contacts {
-  color: #434455;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.32px;
+}
+
+.contacts-link {
+  color: #434455;
 }
 
 .contacts a:focus,
@@ -110,7 +113,7 @@ body {
   text-align: center;
   font-size: 36px;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
